@@ -11,3 +11,5 @@ try{
 }
 
 }
+
+export default connctToMongoDb;
